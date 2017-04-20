@@ -1,0 +1,190 @@
+/*Responsive START*/
+
+@media all and (max-width: 1233px){
+	
+}
+
+@media all and (max-width: 1200px) {
+		
+}
+
+@media all and (max-width:992px) {
+	
+/*Responsive menu START*/
+	
+	.nav>li>a {
+		position: relative;
+		display: block;
+		padding: 5px 10px;
+	}
+	
+	#bottom-menu p {
+		padding: 5px 10px;
+	}
+	
+/*Responsive menu STOP*/
+	
+/*Responsive section START*/
+		
+	.section-header {
+		margin-top: 1em;
+	}
+	
+	.section {
+		height: auto;
+	}
+	
+/*Responsive section END*/
+
+/*Responsive portfolio START*/
+
+	#portfolio {
+		padding-top: 4em;
+	}
+	
+/*Responsive portfolio STOP*/	
+	
+/*Responsive team START*/
+	
+	.social-icons {
+		padding: 0;
+	}
+	.social-icons-item {
+		font-size: 1.5em;
+	}
+		
+	.team-img {
+		height: 150px;
+		width: 150px;
+	}
+	
+/*Responsive team STOP*/
+	
+/*Responsive contact START*/
+	
+	#contact {
+		padding-top: 1em;
+	}
+	
+/*Responsive contact STOP*/
+	
+	.bottom-menu-item a, .bottom-menu-item p  {
+		line-height: 3em;
+}
+
+}
+
+@media all and (max-width:768px) {
+	
+/*Responsive menu START*/
+	
+	#main-menu {
+		background-color: #fff;
+	}
+	
+	#main-menu li.menu-item > a {
+		color: #0ed8d6;
+	}
+	
+	#main-menu li.menu-item > a:hover {
+		color: #777;
+	}
+	
+	#main-menu.scroll {
+		background-color: #fff;
+	}
+	
+	#main-menu.scroll li.menu-item > a {
+		color: #0ed8d6;
+	}
+	
+	#main-menu.scroll li.menu-item > a:hover {
+		color: #777;
+	}
+	
+	#main-menu.scroll {
+		-webkit-box-shadow: 0px 1px 5px 0px rgba(119,119,119,1);
+		-moz-box-shadow: 0px 1px 5px 0px rgba(119,119,119,1);
+		box-shadow: 0px 1px 5px 0px rgba(119,119,119,1);
+	}
+	
+	.navbar-default .navbar-brand {
+		color: #0ed8d6;	
+	}
+	
+	.navbar-default .navbar-brand:hover {
+		color: #777;
+	}
+	
+/*Responsive menu STOP*/
+	
+/*Responsive header START*/
+	
+	#header > #header-content h1 {
+		font-size: 3.5em;
+	}
+	#header > #header-content h2 {
+		font-size: 2em;
+	}
+		
+/*Responsive header STOP*/
+	
+/*Responsive section START*/
+	
+	.section {
+		padding: 0 0 3em 0;
+		margin: 3em 0 0 0;
+	}
+		
+/*Responsive section STOP*/
+
+/*Responsive services START*/
+
+	.service-icons {
+		font-size: 4em;
+	}
+	
+/*Responsive services START*/
+	
+/*Responsive portfolio START*/
+	
+	.portfolio-item {
+		margin: 0 20%;
+	}
+	
+/*Responsive portfolio STOP*/
+		
+}
+
+
+
+@media all and (max-width: 680px) {
+	
+/*Responsive header START*/
+	
+	#header > #header-content h1 {
+		font-size: 3em;
+	}
+	#header > #header-content h2 {
+		font-size: 1.5em;
+	}
+	
+	
+/*Responsive header STOP*/
+	
+}
+
+@media and (max-width: 480px) {
+	
+/*Responsive header START*/
+	
+	#header > #header-content h1 {
+		font-size: 3em;
+	}
+	#header > #header-content h2 {
+		font-size: 1.5em;
+	}
+	
+/*Responsive header STOP*/
+		
+}

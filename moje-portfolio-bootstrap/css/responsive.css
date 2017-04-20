@@ -1,0 +1,178 @@
+/*Responsive START*/
+
+@media all and (max-width: 1233px){
+	
+/*Responsive header START*/
+	
+	#header > #header-content > h1 {
+		font-size: 6em;
+	}
+	#header > #header-content > h2 {
+		font-size: 3em;
+	}
+	
+/*Responsive header END*/	
+}
+
+@media all and (max-width: 1200px) {
+	
+/*Responsive portfolio START*/
+	
+/*
+	.portfolio-img {
+		width: 50%;
+	}
+	
+	.portfolio-img:nth-child(3n) {
+		width: 100%;
+	}
+*/
+
+/*Responsive portfolio END*/	
+}
+
+@media all and (max-width:992px) {
+	
+/*Responsive header START*/
+	
+	#header > #header-content > h1 {
+		font-size: 5em;
+	}
+	#header > #header-content > h2 {
+		font-size: 2.5em;
+	}
+	#about p {
+		padding-top: 30px;
+	}
+/*Responsive header END*/
+	#portfolio-outer {
+		margin: 15px;
+	}
+}
+
+@media all and (max-width:768px) {
+	
+/*Responsive menu START*/
+	
+	#menu {
+		background-color: #fff;
+	}
+	
+	#menu li.menu-item > a {
+		color: #1ac056;
+	}
+	
+	#menu li.menu-item > a:hover {
+	color: #291f1a;
+}
+	
+/*Responsive menu STOP*/	
+	
+	
+/*Responsive header START*/
+	
+	#header > #header-content > h1 {
+		font-size: 3.5em;
+	}
+	#header > #header-content > h2 {
+		font-size: 2em;
+	}
+	
+/*Responsive header STOP*/
+	
+/*Responsive section START*/
+	
+/*
+	.col-1-2 {
+		width: 100%;
+		text-align: center;
+	}
+*/
+	#skills > p {
+		margin: 60px 0;
+	}
+	
+	
+/*Responsive section STOP*/
+	
+/*Responsive portfolio START*/
+	
+	#portfolio-outer {
+		margin: 15px;
+	}
+	
+/*Responsive portfolio STOP*/
+	
+/*Responsive contact START*/	
+	
+	#info {
+		text-align: center;
+		padding: 0;
+	}
+	
+	#info > h2 {
+		margin-bottom: 30px;
+	}
+	#social-icons > a{
+		margin: 0 10px;
+		height: 60px;
+		width: 60px;
+		font-size: 1.92em;
+		line-height: 60px;
+	}
+	#social-icons {
+		padding: 60px 0px 30px 0px;
+		
+	}
+	#form-outer {
+		text-align: center;
+		padding: 30px 60px 60px 60px;
+	}
+	
+/*Responsive contact STOP*/
+	
+}
+
+@media all and (max-width: 680px) {
+	
+/*Responsive header START*/	
+	
+	#header > #header-content > h1 {
+		font-size: 3em;
+	}
+	#header > #header-content > h2 {
+		font-size: 1.5em;
+	}
+	
+/*Responsive header STOP*/
+	
+}
+
+@media and (max-width: 480px) {
+	
+/*Responsive header START*/
+	
+	#header > #header-content > h1 {
+		font-size: 2em;
+	}
+	#header > #header-content > h2 {
+		font-size: 1em;
+}
+	
+/*Responsive header STOP*/
+	
+/*Responsive section START*/
+	
+	figure.col-1-2 {
+		border: none;
+	}
+	section {
+		padding: 15px 30px;
+		text-align: justify;
+	}
+	
+/*Responsive section STOP*/	
+	
+}
+	
+	
